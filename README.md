@@ -1,5 +1,4 @@
-# SolidityTestContract
-First steps
+# Solidity Test Contracts
 
 ## tx.origin_vs_msg.sender
 This is a demonstration contract for `Remix IDE`
