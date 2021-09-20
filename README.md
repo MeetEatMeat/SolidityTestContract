@@ -1,6 +1,6 @@
 # Solidity Test Contracts
 
-## tx.origin_vs_msg.sender
+## tx.origin_vs_msg.sender.sol
 This is a demonstration contract for `Remix IDE`
 
 ### How to use it
